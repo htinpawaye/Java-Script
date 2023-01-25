@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<rooms>
+    <room>
+        <no>101</no>
+        <type>Single</type>
+        <price>22000</price>
+        <facility>Single Bed,TV,Refrigeration</facility>
+    </room>
+    <room>
+        <no>201</no>
+        <type>Deluxe</type>
+        <price>52000</price>
+        <facility>Single Bed,TV,Refrigeration</facility>
+    </room>
+    <room>
+        <no>301</no>
+        <type>Family</type>
+        <price>62000</price>
+        <facility>Single Bed,TV,Refrigeration</facility>
+    </room>
+</rooms>
