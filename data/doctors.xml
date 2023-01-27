@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<doctors>
+    <doctor>
+        <name>Dr.Aye Thiri</name>
+        <speciality>Surgery</speciality>
+        <email>ayethiri@gmail.com</email>
+        <photo>aye.jpeg</photo>
+    </doctor>
+    <doctor>
+        <name>Dr.Aye Thiri</name>
+        <speciality>Surgery</speciality>
+        <email>ayethiri@gmail.com</email>
+        <photo>aye.jpeg</photo>
+    </doctor>
+    <doctor>
+        <name>Dr.Aye Thiri</name>
+        <speciality>Surgery</speciality>
+        <email>ayethiri@gmail.com</email>
+        <photo>aye.jpeg</photo>
+    </doctor>
+    <doctor>
+        <name>Dr.Aye Thiri</name>
+        <speciality>Surgery</speciality>
+        <email>ayethiri@gmail.com</email>
+        <photo>aye.jpeg</photo>
+    </doctor>
+    <doctor>
+        <name>Dr.Aye Thiri</name>
+        <speciality>Surgery</speciality>
+        <email>ayethiri@gmail.com</email>
+        <photo>aye.jpeg</photo>
+    </doctor>
+</doctors>

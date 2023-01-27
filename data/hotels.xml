@@ -4,18 +4,18 @@
         <no>101</no>
         <type>Single</type>
         <price>22000</price>
-        <facility>Single Bed,TV,Refrigeration</facility>
+        <facility>Single Bed,TV,Refrigerator</facility>
     </room>
     <room>
         <no>201</no>
         <type>Deluxe</type>
         <price>52000</price>
-        <facility>Single Bed,TV,Refrigeration</facility>
+        <facility>Single Bed,TV,Refrigerator</facility>
     </room>
     <room>
         <no>301</no>
         <type>Family</type>
         <price>62000</price>
-        <facility>Single Bed,TV,Refrigeration</facility>
+        <facility>Single Bed,TV,Refrigerator</facility>
     </room>
 </rooms>

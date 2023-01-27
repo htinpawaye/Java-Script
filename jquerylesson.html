@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Invoice number</th>
+                            <th>Date</th>
+                            <th>Total Amount</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr id="1">
+                            <td>1</td>
+                            <td>In1000</td>
+                            <td>12/2/2000</td>
+                            <td>230000</td>
+                            <td>
+                                <button class="btn btn-warning mx-2">Update</button>
+                                <button class="btn btn-danger mx-2 delete">Delete</button>
+                                <button class="btn btn-primary mx-2">Sale</button>
+                            </td>
+                        </tr>
+                        <tr id="2">
+                            <td>2</td>
+                            <td>In1100</td>
+                            <td>10/6/2001</td>
+                            <td>280000</td>
+                            <td>
+                                <button class="btn btn-warning mx-2">Update</button>
+                                <button class="btn btn-danger mx-2 delete">Delete</button>
+                                <button class="btn btn-primary mx-2">Sale</button>
+                            </td>
+                        </tr>
+                        <tr id="3">
+                            <td>3</td>
+                            <td>In2200</td>
+                            <td>9/1/2002</td>
+                            <td>300000</td>
+                            <td>
+                                <button class="btn btn-warning mx-2">Update</button>
+                                <button class="btn btn-danger mx-2 delete">Delete</button>
+                                <button class="btn btn-primary mx-2">Sale</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <ul>
+                    <li class="first">Item 1</li>
+                    <li>Item 2</li>
+                    <li>Item 3</li>
+                    <li>Item 4</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <button class="btn btn-danger hide">Hide</button>
+                <button class="btn btn-dark show">Show</button>
+                <button class="btn btn-primary toggle">Toggle</button>
+                <div>
+                    <button class="btn btn-danger fadein">FadeIn</button>
+                    <button class="btn btn-dark fadeout">FadeOut</button>
+                    <button class="btn btn-primary fadetoggle">FadeToggle</button>
+                    <button class="btn btn-secondary fadeto">FadeTo</button>
+                </div>
+                <div>
+                    <button class="btn btn-danger slidedown">Slide Down</button>
+                    <button class="btn btn-dark slideup">Slide Up</button>
+                    <button class="btn btn-primary slidetoggle">Slide Toggle</button>
+                    <button class="btn btn-secondary fadeto">FadeTo</button>
+                </div>
+            </div>
+            <div class="col-md-6 img">
+                <img src="images/6.jpg" alt="" class="w-100 h-60">
+            </div>
+        </div>
+    </div>
+
+    <script src="jquery-3.6.3.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquerylesson.js"></script>
+</body>
+
+</html>
